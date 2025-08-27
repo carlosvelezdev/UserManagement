@@ -123,11 +123,6 @@ mvn clean compile
 mvn exec:java -Dexec.mainClass="com.cavs.Main"
 ```
 
-4. **Ejecutar la demostración automática**
-```bash
-mvn exec:java -Dexec.mainClass="com.cavs.demo.SystemDemo"
-```
-
 ## 👥 Usuarios de Demostración
 
 El sistema incluye usuarios preconfigurados para pruebas:
